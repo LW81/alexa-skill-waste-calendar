@@ -1,0 +1,6 @@
+GetWaste Welche Tonne wird als nächstes abgeholt
+GetWaste Welche Tonne wird als nächstes geleert
+GetWaste Wann das nächste mal der Müll abgeholt wird
+GetWaste Wann wird das nächste mal der Müll abgeholt
+GetWaste Wann wird die {Tonne} Tonne abgeholt
+GetWaste Wann die {Tonne} Tonne abgeholt wird

@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.376215ce-19bf-490f-8b17-697e0f6ae1cf",
+    "application": {
+      "applicationId": "amzn1.ask.skill.bc931998-01b6-49bf-b75b-845667421015"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AHWUPTAPHXUZ4PMILIUBLLATDAWOVB5MT6MQ3UHTF6GN6VCY2E75BGFSZN5RWMTBWYEXIKIQFDGUC4DHRB7HIW24SFLSGU6SCEZKDTYKD3EOEN4C3MO3A7XPDQ2J3ZF46T7AM7O7OE4UIQVLSHN3RQ4E5B3FYA2FSJWE6GWCAMJK25YZI5NHQAKRMCZU6TIC6JREXUWTYR5E66I"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.28a85829-9d87-492f-8b00-6f846dd4bcce",
+    "locale": "de-DE",
+    "timestamp": "2017-02-05T15:04:44Z",
+    "intent": {
+      "name": "GetWaste",
+      "slots": {
+        "Tonne": {
+          "name": "Tonne",
+          "value": "gelbe"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

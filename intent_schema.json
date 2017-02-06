@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetWaste",
+      "slots": [
+        {
+          "name": "Tonne",
+          "type": "LISTE_ALLER_TONNEN"
+        }
+      ]
+    }
+    ]
+}

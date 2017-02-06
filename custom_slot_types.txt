@@ -1,0 +1,7 @@
+LISTE_ALLER_TONNEN
+    schwarze
+    gelbe
+    braune
+    blaue
+    altpapier
+    bio

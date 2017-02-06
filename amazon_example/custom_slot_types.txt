@@ -1,0 +1,10 @@
+LIST_OF_COLORS
+    green
+    red
+    blue
+    orange
+    gold
+    silver
+    yellow
+    black
+    white
