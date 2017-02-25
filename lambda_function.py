@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: iso-8859-1 -*-
 
 from __future__ import print_function
 import os
@@ -153,9 +153,11 @@ def get_waste(intent):
 
                 # Now we want to see what we have
                 if (query_type == "specific") and (dates[key] == tonne):
+                    # Workaround for März
+                    date = str(date).replace('ä', 'ae')
                     speech_output = "Am %s %s dem %s wird die %s Tonne geleert." % (emphasis,
                                                                                     str(day),
-                                                                                    str(date),
+                                                                                    date,
                                                                                     tonne)
                     break
                 elif (query_type == "generic"):
